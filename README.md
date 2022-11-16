@@ -5,8 +5,8 @@
 
 <div align="center"> <!--Sobre atualizações no github -->
   <a href="https://github.com/jamesfelipe">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jamesfelipe&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFelipe&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jamesfelipe&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFelipe&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   
