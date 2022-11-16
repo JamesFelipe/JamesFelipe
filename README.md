@@ -3,8 +3,8 @@
 <h3>👀 I’m interested in Python and  data science...</h3> 
 <h3>🌱 I'm constantly learning ...</h3>
 
-<div align="center" style="display: inline_block"> <!--Sobre atualizações no github -->
-  <a href="https://github.com/jamesfelipe">
+<div align="center"> <!--Sobre atualizações no github -->
+  <a href="https://github.com/JamesFelipe">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jamesfelipe&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFelipe&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -24,7 +24,7 @@
 </div>
   
   ## 
- <div style="display: inline_block"> <!-- Social media -->
+ <div> <!-- Social media -->
    
  <a href="https://t.me/JamesfelipeM" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
  <a href = "mailto:jamesfelipeofc2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
