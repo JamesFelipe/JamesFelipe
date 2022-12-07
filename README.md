@@ -7,13 +7,24 @@
 
 
 <div align="center"> <!--Sobre atualizações no github -->
-  <a href="https://github.com/JamesFelipe">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jamesfelipe&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jamesfelipe&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesfelipe&hide=TeX&layout=compact)
+
+  
+ <!--
+ movimentos do github fora de funcionamento
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jamesfelipe&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFelipe&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div>-->
  
- <!-- Gráficos, coisa mais linda -->
- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jamesfelipe&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <!-- Gráficos, coisa mais linda 
+ Fora de funcionamento
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jamesfelipe&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+ 
+ <!--Gráfico em funcionamento-->
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jamesfelipe&theme=github-compact&custom_title=James%20GitHub%20%20Graphic&hide_border=true)](https://github.com/jamesfelipe/github-readme-activity-graph)
+
   
  
 
