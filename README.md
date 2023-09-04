@@ -13,7 +13,7 @@
 
  
  <!--Gráfico em funcionamento-->
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jamesfelipe&theme=github-compact&custom_title=James%20GitHub%20%20Graphic&hide_border=true)](https://github.com/jamesfelipe/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesfelipe&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
   
