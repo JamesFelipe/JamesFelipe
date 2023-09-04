@@ -9,7 +9,7 @@
 <div align="center"> <!--Sobre atualizações no github -->
  <!--movimentos do github(instável, mas estou deixando pois gosto da cor-->
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jamesfelipe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesfelipe&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesfelipe&layout=compact&langs_count=7&theme=dracula"/><br><br>
 
  
  <!--Gráfico em funcionamento-->
