@@ -1,7 +1,7 @@
 <!-- Apresentações iniciais -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!+MY+NAME+IS+JAMES+FELIPE;I'M+FROM+BRAZIL!+:%29)](https://git.io/typing-svg)
 <!--<h1>Hello, World!, I’m <b>@JamesFelipe<b> 👋</h1>-->
-<h3>👀 I’m interested in Python and  data science...</h3> 
+<h3>👀 I'm interested in python and data science among others ...</h3> 
 <h3>🌱 I'm constantly learning ...</h3>
 <h4> @JamesFelipe <h4>
 
