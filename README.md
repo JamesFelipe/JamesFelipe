@@ -12,8 +12,8 @@
   <img height="180em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesfelipe&layout=compact&langs_count=16&theme=radical"/>
 
  
- <!--Gráfico em funcionamento-->
-<![![James Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesfelipe&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+ <!--Gráfico em funcionamento com erro
+[![James Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesfelipe&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
  
   
 </div> <!-- Linguagens que sei um pouco ou estou aprendendo -->
