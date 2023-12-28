@@ -12,8 +12,8 @@
   <img height="180em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesfelipe&layout=compact&langs_count=16&theme=radical"/>
 
  
- <!--Gráfico em funcionamento com erro
-[![James Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesfelipe&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+ <!--Gráfico em funcionalmente, mas um pouco instável-->
+[![James Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesfelipe&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
   
 </div> <!-- Linguagens que sei um pouco ou estou aprendendo -->
@@ -34,12 +34,6 @@
  <a href = "mailto:jamesfelipeofc2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href = "https://www.linkedin.com/in/james-felipe-6a4a2a1a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-  
-
-  
-  <!-- cobrinha (Não Funcionando
-[Snake animation](https://github.com/jamesfelipe/jamesfelipe/blob/output/github-contribution-grid-snake.svg)-->
-
   
 <div align="center">
 <br><p align="centre"><b>Número de Visitantes</b></p>  
