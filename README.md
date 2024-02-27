@@ -9,12 +9,12 @@
 <div align="center"> <!--Sobre atualizações no github(commits e tecnologias usadas -->
  <!--movimentos do github(instável, mas estou deixando pois gosto da cor-->
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesfelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamesfelipe&layout=compact&langs_count=16&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamesFelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFelipe&layout=compact&langs_count=16&theme=radical"/>
 
  
  <!--Gráfico em funcionalmente, mas um pouco instável-->
-[![James Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesfelipe&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![James Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JamesFelipe&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
   
 </div> <!-- Linguagens que sei um pouco ou estou aprendendo -->
