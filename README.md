@@ -14,7 +14,7 @@
 
  
  <!--Gráfico em funcionalmente, mas um pouco instável-->
-[![James Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JamesFelipe&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![James Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesfelipe&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
   
 </div> <!-- Linguagens que sei um pouco ou estou aprendendo -->
