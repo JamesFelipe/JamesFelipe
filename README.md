@@ -9,7 +9,7 @@
 <div align="center"> <!--Sobre atualizações no github(commits e tecnologias usadas -->
  <!--movimentos do github(instável, mas estou deixando pois gosto da cor-->
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JamesFelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesfelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFelipe&layout=compact&langs_count=16&theme=radical"/>
 
  
