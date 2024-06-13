@@ -9,9 +9,15 @@
 <div align="center"> <!--Sobre atualizações no github(commits e tecnologias usadas -->
  <!--movimentos do github(instável, mas estou deixando pois gosto da cor-->
  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamesfelipe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFelipe&layout=compact&langs_count=16&theme=radical"/>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=JamesFelipe&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JamesFelipe&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+<br>
 
+ 
  
  <!--Gráfico em funcionalmente, mas um pouco instável-->
 [![James Felipe github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jamesfelipe&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
