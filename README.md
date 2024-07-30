@@ -47,5 +47,9 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jamesfelipe}/count.svg" /></p> 
 <br>
 </div>
- 
+
+<!--Cobrinha
+ <img src="https://raw.githubusercontent.com/jamesfelipe/jamesfelipe/output/snake.svg" alt="Snake animation" />-->
+
+###
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
